@@ -1,1 +1,1 @@
-This is the main shop.
+This is the main shop. were the apps will be
