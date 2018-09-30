@@ -1,6 +1,7 @@
 # Nintendo DS(I) Shop ++
-The new dsi shop currently in development
-this is going to restore the dsi shop with a custom database that hosts homebrew downloads
-for cfw users.
-it will use hiyacfw to bypass signature verification just like luma cfw to insall non-legit apps
- https://nintendobrew.github.io/DS-i-shop-/.
+The new DSi Shop currently in development  
+This is going to restore the DSi Shop with a custom database that hosts homebrew downloads
+for CFW users.
+
+It will use HiyaCFW to bypass signature verification just like Luma3DS CFW to insall non-legit apps  
+https://nintendobrew.github.io/DS-i-shop-/
