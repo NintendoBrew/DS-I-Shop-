@@ -1599,14 +1599,8 @@ section.testimonial_bg:after {
 
 /*-------- contact -------*/
 section.contact_bg {
-  background: hsl(0, 0%, 100%) none repeat scroll 0 0;
-  bottom: -70px;
-  left: 0;
-  margin: 0 auto;
-  padding: 20px;
-  position: absolute;
-  right: 0;
-  width: 310px;
+  background: url(../images/contact_bg.jpg) repeat scroll 0 0;
+  position:relative;
 }
 
 section.contact_bg:after {
@@ -2258,5 +2252,3 @@ article {  margin: 0 0 70px;}
 
 
 }
-
-
