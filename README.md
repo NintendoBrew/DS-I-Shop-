@@ -1,4 +1,4 @@
-# Nintendo DSi Shop++
+# DSi Shop++
 The new DSi Shop currently in development  
 This is going to restore the DSi Shop with a custom database that hosts homebrew downloads
 for CFW users.
